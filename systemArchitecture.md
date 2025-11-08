@@ -80,7 +80,7 @@ Why this approach is technically feasible
 By leveraging existing technologies instead of inventing new ones, we reduce cost, complexity, and development time. This makes ShoeFit practical, achievable, and easy to improve over time.
 
 **User flow**
-![User Flow](./assets/shoefituserflow.png)
+![User Flow](./assets/shoefituseflow.png)
 
 ### UI Screens
 
@@ -100,7 +100,7 @@ By leveraging existing technologies instead of inventing new ones, we reduce cos
 ![Foot Scan](./assets/footscan.jpg)
 
 **Review Measurements**
-![Review Measurements](./assets/reviewmeasuremnts.jpg)
+![Review Measurements](./assets/reviewmeasurements.jpg)
 
 **Size Recommendation**
 ![Size Recommendation](./assets/sizerecommendation.jpg)
