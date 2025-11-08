@@ -78,3 +78,32 @@ Why this approach is technically feasible
 - The app works even with poor internet or no internet because some of the processing happens on the device (offline-first approach).
 - Shoe brands already use size conversion charts, so connecting measurements to size recommendations is straightforward, we just store their sizing rules in the database and apply them.
 By leveraging existing technologies instead of inventing new ones, we reduce cost, complexity, and development time. This makes ShoeFit practical, achievable, and easy to improve over time.
+
+**User flow**
+![User Flow](./assets/shoefituserflow.png)
+
+### UI Screens
+
+**Welcome**
+![Welcome](./assets/welcome.jpg)
+
+**Onboarding**
+![Onboarding](./assets/onboarding.jpg)
+
+**Log in/ Sign up**
+![Login/ Sign up](./assets/loginsignup.jpg)
+
+**Camera Permission**
+![Camera Permission](./assets/camerapermission.jpg)
+
+**Foot Scan**
+![Foot Scan](./assets/footscan.jpg)
+
+**Review Measurements**
+![Review Measurements](./assets/reviewmeasuremnts.jpg)
+
+**Size Recommendation**
+![Size Recommendation](./assets/sizerecommendation.jpg)
+
+**Profile**
+![Profile](./assets/profile.jpg)
