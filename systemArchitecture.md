@@ -85,10 +85,10 @@ By leveraging existing technologies instead of inventing new ones, we reduce cos
 ### UI Screens
 
 **Welcome**
-![Welcome](./assets/welcome.jpg)
+![Welcome](./assets/welcome1.jpg)
 
 **Onboarding**
-![Onboarding](./assets/onboarding.jpg)
+![Onboarding](./assets/onboarding1.jpg)
 
 **Log in/ Sign up**
 ![Login/ Sign up](./assets/loginsignup.jpg)
@@ -106,4 +106,4 @@ By leveraging existing technologies instead of inventing new ones, we reduce cos
 ![Size Recommendation](./assets/sizerecommendation.jpg)
 
 **Profile**
-![Profile](./assets/profile.jpg)
+![Profile](./assets/profile1.jpg)
